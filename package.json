@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JonnyKooKs/userFinderApp/issues"
   },
-  "homepage": "https://github.com/JonnyKooKs/userFinderApp#readme"
+  "homepage": "https://github.com/JonnyKooKs/userFinderApp#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
